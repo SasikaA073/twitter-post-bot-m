@@ -1,0 +1,4 @@
+requests
+pprintpp
+pickle5
+Pillow
